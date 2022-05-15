@@ -5,7 +5,6 @@ warnings.filterwarnings("ignore", category=FutureWarning)
 def is_integer(string):
     if string[0] == ('-', '+'):
         return string[1:].isdigit()
-
     else:
         return string.isdigit()
 

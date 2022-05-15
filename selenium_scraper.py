@@ -36,7 +36,6 @@ def continue_after_req_limit(start_param):
             country_xpath = '//*[@id="col_club_team"]'
             nationality_xpath = '//*[@id="col_nationality"]'
 
-
             stronger_foot_xpath = '//*[@id="col_foot"]'
             ball_control_xpath = '//*[@id="col_ball_control"]'
             dribbling_xpath = '//*[@id="col_dribbling"]'
